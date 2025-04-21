@@ -1,4 +1,2 @@
 # demo
-This is my first Git Repository
-
-Author - Pournima Gaonkar
+This is my first Git Repository  Author - Pournima Gaonkar
